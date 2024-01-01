@@ -1,2 +1,9 @@
 # Accept Cookie🍪
- ![Cookie](https://github.com/Dinesh1042/Vanilla-JavaScript-Projects/blob/main/Accept%20Cookie%20%F0%9F%8D%AA/asset/Cookie_preview.png?raw=true)
+This is a system for accepting cookie
+
+# Technologies used
+1. html5
+2. css3
+3. javascript
+
+
